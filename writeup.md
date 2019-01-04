@@ -11,32 +11,6 @@
       - [Analysis](#analysis-1)
       - [flow](#flow-1)
 
-<style>
-* {
-    font-family: 'DejaVu Sans Mono';
-}
-h1 {
-    font-weight: bold;
-    margin-bottom:10px;
-}
-h2 {
-    font-weight: bold;
-    margin:0px auto;
-    color:#3366ff;
-    margion-top:40px;
-}
-h3 {
-    font-weight: bold;
-}
-h4, h5, h6 {
-    font-weight: bold;
-}
-.word {
-    display:inline;
-    background-color:rgba(137, 142, 144, 0.3);
-}
-</style>
-
 
 ## PWN
 
